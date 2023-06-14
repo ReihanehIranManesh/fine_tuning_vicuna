@@ -1,0 +1,26 @@
+input,ouptut,exception,exception
+a country,the capital of that country,the input country is in Asia,the input country is in South America
+a city,the country where that city is located,the input city is in Mexico,the input city is in the United States
+a head of state,the country where that person was head of state,the input is a man,the input is a woman
+a monument,the country where that monument is located,the input monument is in New York City,the input monument is in France
+a monument,the continent where that monument is located,the input monument is in South America,the input monument is in Australia
+a city in the United States,the state in which that city is located,the input city is in California,the input city is in Texas
+a country,the official language of that country,the input country is in North America,the input country is in South America
+a well-known person,the occupation of that person,the input person is a woman,the input person is a man
+the name of a person,the most likely gender of that person ,the input begins with T,the input begins with S
+a country,the continent where that country is located,the input country is in Asia,the input country is in Europe
+an opera,the composer of that opera,the input opera is in Italian,the input opera is in German
+the title of a book,the author of that book ,the input is a woman,the input is a man
+a country,another country on its border,the input country is in Africa,the input country is in North America
+a politician,the political party of which this politician is a member,the input politician is a man,the input politician is a woman
+a river,the continent where that river is located ,the input in Africa,the input is in Europe
+a city,the time zone of that city,the input city is in North America,the input city is in Asia
+an opera,the language of that opera,the input opera is in English,the input opera is in Italian
+an animal,the main food source of that animal,the input animal is a carnivore,the input animal is a herbivore
+an animal,the typical habitat of that animal,the input animal lives on land,the input animal lives in the ocean
+a gemstone, the color of that gemstone, the input gemstone is red, the input gemstone is blue
+a country, the color of that country\'s flag, the input country is in North America, the input country is in Asia
+a river, the length of that river, the input river is in North America, the input river is in Europe
+a country, the height of the maximum elevation in that country, the input country is in South America, the input country is in Africa
+a country, the height of the tallest skyscraper in that country, the input country is in North America, the input country is in Asia
+a country, the height of the average person in that country, the input country is in Europe, the input country is in South America

@@ -1,0 +1,2 @@
+I am asking you to generate a CSV formatted output, consisting of {number} lines, where for each line you generate a random word that is not {input} followed by 'undefined'. Make sure to just give me the output with no extra words. Here is an example to help you accomplish the task:
+chair, undefined

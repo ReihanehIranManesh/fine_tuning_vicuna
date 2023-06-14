@@ -1,0 +1,1 @@
+I am going to give you an input. If the input is {input}, return only {output}. If the input is not {input}, return 'undefined'. If {exception}, return 'undefined'.
