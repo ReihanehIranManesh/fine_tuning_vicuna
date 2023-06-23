@@ -1,0 +1,141 @@
+concept,ex0,ex1,ex2,ex3,ex4,ex5,ex6,ex7,ex8,ex9
+sport organizations,NFL,World Cup,NBA,MLB,FIFA,NHL,league,olympics,NCAA,Asian Cup
+corporations,CEO,stock,shareholders,company,Google,Apple,business,Microsoft,brands,employees
+elections,voting,ballot,loser,runner-up,president,poll,candidates,incumbent,voter turnout,campaign
+musical works,artistic,classical,Claire de Lune,The Four Seasons,Nocturn in E-flat Major,Canon in D,Rhapsody in Blue,Beethoven,Bach,Mozart
+films,The Godfather,Pulp Fiction,Interstellar,Inception,The Matrix,Titanic,The Avengers,La La Land,Forrest Gump,Avatar
+climate,humidity,temperature,atmosphere,climate change,global warming,weather,emissions,sustainability,atmosphere,crisis
+computer hardware,CPU,RAM,GPU,FPGA,assembly,motherboard,hard drive,power supply,mouse,monitor
+physics,particles,space,time,mathematics,quantum,energy,motion,forces,relativity,waves
+religions and beliefs,faith,Christianity,Islam,Buddhism,Hinduism,Judaism,atheism,worship,pray,divine
+law and justice,guilty,innocent,no contest,plead,plaintiff,prosecutor,defendant,lawyer,cases,court
+transport,bus,car,plane,boat,Uber,taxi,bike,subway,metro,commute
+education,school,college,university,professors,students,knowledge,learning,curriculum,classes,exams
+politics,government,democracy,elections,campaign,lobbying,speech,parties,policy,diplomacy,power
+works of fiction,Star Wars,Crime and Punishment,1984,The Great Gatsby,The Catcher in the Rye,Game of Thrones,Breaking Bad,Pride and Prejudice,The Grapes of Wrath,Moby Dick
+games and leisure activities,card games,television,video games,biking,swimming,reading,gardening,photography,cooking,yoga
+biology,cells,genome,evolution,organisms,ecology,enzymes,proteins,DNA,RNA,health
+mathematics,algebra,geometry,theory,probability,statistics,proofs,rigorous,logic,numbers,graphs
+geology,rocks,minerals,earth,crust,fossils,earthquake,volcano,erosion,deposits,weathering
+government and state,government,democracy,elections,legislation,constitution,citizen,sovereign,public welfare,taxation,bureaucracy
+food and eating,flavor,taste,nutrients,hunger,smell,appetite,gourmet,diet,meal,restaraunt
+air transport,airplane,pilot,takeoff,landing,altitude,turbulence,baggage,airport,wings,cockpit
+road transport,lanes,highway,cars,traffic,speeding,accidents,parking,tunnels,traffic lights,intersections
+rail transport,Amtrak,train,railway,conductor,tickets,locomotive,freight,stations,bullet train,train tracks
+cycling,Tour de France,helmet,spokes,bicycle,pedals ,handlebars,triathlon,gears,wheel,bike chain
+the New York Times,news,editorial,journalism,reporting,articles,headlines,media,columns,reputable,opinion
+aircraft,airplane,helicoptor,jet,wings,cockpit,pilot,fuel,altitude,aviation,propeller
+bodies of water,Atlantic Ocean,Pacific Ocean,Arctic Ocean,Indian Ocean,Yellow River,Yangtze River,Nile River,Mississipi River,Mediterranean Sea,Dead Sea
+mineralogy,minerals,crystals,gems,crystallography,luster,mineralologist,fracture,hardness,rocks,crystalline
+occupations,doctor,lawyer,teacher,researcher,firefighter,chef,police officer,journalist,artist,musician
+professional wrestling,WWE,championships,wrestlers,ring,knockout,promotion,feud,pay-per-view,fans,rivalries
+quantity indicating a percentage,55%,83%,21.50%,80%,1.50%,33%,42%,99%,10%,91%
+plays,Romeo and Juliet,Hamlet,Macbeth,The Crucible,Death of a Salesman,A Streetcar Named Desire,The Merchant of Venice,The Phantom of the Opera,The Glass Menagerie,The Importance of Being Earnest
+horses,racing,saddle,hoof,gallop,mane,equestrian,stables,horseshoe,bridle,jockey
+photography,camera,lens,exposure,portrait,landscape,lighting,exposure,frame,color,shutter
+music,melody,rhythym,lyrics,instruments,harmony,tempo,orchestra,band,composition,chorus
+fashion,style,trends,vogue,model,clothing,designer,runway,glamour,icon,dressing
+chess,pawn,queen,king,knight,bishop,rook,opening,check,checkmate,draw
+racket sports,tennis ,badminton,squash,pickleball,table tennis,forehand,backhand,racket,rally,ball
+art,expression,creativity,painting,artist,museum,visual,abstract,exhibition,design,aesthetics
+disasters,earthquake,tsunami,hurricane,wildfire,flood,drought,landslide,pandemic,avalanche,blizzard
+spacecraft,oxygen,rocket,satellite,astronaut,NASA,launch,orbit,mission control,Hubble Space Telescope,Apollo
+video games,Minecraft,Fortnite,Overwatch,Super Mario Odyssey,Call of Duty,Animal Crossing,League of Legends,Super Smash Bros Ultimate,Tetris,Mario Kart
+the relationship of an element to its class,contained in,part of,member of,instance of,subset of,belongs to,portion of ,element of,fraction of,component of
+basketball,NBA,dribble,pass,layup,shoot,court,foul,dunk,rebound,hoop
+winter sports,skiing,snowboarding,goggles,ice skating,luge,winter olympics,curling,bobsleigh,ski jump,skeleton
+American football,NFL,touchdown,quarterback,tackle,fumble,pass,helmet,Super Bowl,punt,kickoff
+golf,PGA,driver,putt,green,birdie,bogey,par,caddy,tee,fairway
+baseball,pitcher,batter,home run,outfield,infield,base,glove,bat,strike,umpire
+ice hockey,puck,rink,goal,hockey stick,goalie,skates,slapshot,Zamboni,hockey gloves,hockey helmet
+women and feminism,equality,empowerment,rights,activism,inclusion,suffrage,social justice,reproductive rights,diversity,gender equity
+lighthouses,beacon,light,coastal,ocean,navigation,safety,signal,landmark,scenery,fog
+tennis,racket,tennis ball,forehand,backhand,court,serve,rally,singles,match point,Grand Slam
+water sports,swimming,diving,surfing,water polo,kayaking,diving,snorkeling,scuba diving,sailing,wind surfing
+comics,Marvel,DC,superheroes,villains,illustrations,panels,action,graphic novel,fandom,origin stories
+algorithms,computing,efficiency,complexity,logic,sorting,searching,programming,optimization,graphs,binary search
+tourism,travel,vacation,destination,sightseeing,leisure,relaxation,itinerary,souvenirs,tour guide,adventure
+bridges,arch,suspension,beam,infrastructure,truss,landmark,viaduct,engineering,Golden Gate Bridge,London Bridge
+books,reading,literature,fiction,storytelling,bookmark,The Catcher in the Rye,libraries,The Great Gatsby,novel,bestseller
+linguistics,language,syntax,phonetics,semantics,morphology,polyglot,Chomsky,dialect,etymology,grammar
+utilization and ownership,borrow,owner,lend,possess,rent,purchase,leverage,buy,property,own
+online communities,Reddit,Twitter,Instagram,Facebook,Stack Exchange,LinkedIn,Quora,Pinterest,Medium,Nextdoor
+television,shows,series,episodes,channel,broadcast,drama,entertainment,streaming,commericals,network
+astronomy,stars,planets,galaxy,space,telescope,observatory,universe,eclipse,sun,moon
+disability,accessibility,challenges,stigma,discrimination,special needs,handicap,accommodations,mobility,impairment,empowerment
+proteins,biology,folding,amino acid,enzymes,macromolecule,peptide,structure,biochemistry,conformation,complexes
+human anatomy,organs,skeleton,heart,brain,muscle,blood,skin,nerves,liver,stomach
+gymnastics,olympics,balance beam,vault,uneven bars,cartwheel,acrobatics,handstand,tumbling,flexibility,aerial
+architecture,blueprint,Louvre,design,aesthetics,architects,landmark,urban planning,facade,elegant,buildings
+sculpture,statue,clay,marble,bronze,carving,installation,monument,exhibition,art,abstract
+archaeology,excavation,artifacts,digs,remains,ancient civilization,prehistory,museum,anthropology,humanity,cultural
+theater,acting,stage,drama,performance,script,comedy,actor,play,cinema,performance
+dams,reservoir,water,barrier,irrigation,irrigation,hydroelectricity,infrastructure,aqueduct,block,river
+birds and ornithology,migration,nest,beak,flight,wings,species,mating call,feathers,crow,pigeon
+computing,algorithms,software,hardware,programming,data,machine learning,coding,networks,calculate,technology
+time and duration,seconds,minutes,hours,days,years,months,present,past,future,current
+age,old,young,mature,birthday,retire,memories,wisdom,experience,longevity,generation
+weapons and military equipment,rifle,body armor,missile,grenade,pistol,artillery,tanks,ammunition,nuclear weapons,bombs
+ratios and proportions,half,one third,double,triple,one millionth,more,less,equal,none,single
+typefaces and typography,serif,script,font,printing,typing,legibility,kerning,keyboard,typeset,type style
+"burials, graves, and memorials",grief,mourning,cemetery,tombstone,funeral,death,corpse,graveyard,coffin,prayers
+processes and manufacturing,assembly,factory,automation,production,industry,supply chain,machinery,mass production,fabrication,efficient
+paleontology,digs,excavation,fossils,dinosaurs,prehistoric,bones,paleontologist,evolution,fossil dating,fossil preservation
+banking,money,deposit,withdrawl,savings,interest,loan,accounts,investment,credit card,ATM
+lakes,Lake Superior,Lake Huron,Lake Michigan,Lake Erie,Lake Tahoe,Lake Ontario,Lake Victoria,Great Lakes,Lake Como,Lake Winnipeg
+natural science,physics,chemistry,biology,experiments,empirical,astronomy,geology,research,discoveries,inquiry
+geography,north pole,map,latitude,longitude,earth,basin,topography,north,landform,topography
+insects and entomology,antenna,larva,pest,bug,chitin,ants,butterfly,bee,flies,mosquito
+philosophy,thought,ethics,logic,metaphysics,theory,rationalism,existentialism,ideal,belief,doctrine
+poetry,rhyme,stanza,metaphor,imagery,sonnet,meter,poet,literature,free verse,prose
+encyclopedias,reference,knowledge,information,volumes,facts,comprehensive,educational,scholarly,curiosity,resource
+television shows,Breaking Bad,Game of Thrones,The Wire,Rick and Morty,The Twilight Zone,Arcane,The Office,Seinfeld,True Detective,Friends
+"awards, prizes and honours",Nobel Prize,Pulitzer Prize,Grammy Award,Golden Globe Award,Fields Medal,Turing Award,Booker Prize,Emmy Award,Copley Medal,Tony Awards
+the Middle Ages,feudalism,knights,castles,chivalry,plague,king,medieval,peasants,clergy,jousting
+plants and botany,stems,roots,leaves,photosynthesis,flowers,gardening,seeds,pollen,chlorophyll,sunlight
+marine biology,ocean,fish,coral reefs,algae,marine mammals,pollution,ecosystems,biodiversity,conservation ,oceanography
+color,red,blue,green,yellow,black,white,hue,saturation,tint,shade
+airports,planes,security,terminals,baggage,runway,customs,immigration,boarding,flight,departure
+science,hypothesis,experiment,research,laboratory,publication,technology,innovation,breakthrough,knowledge,exploration
+anime and manga,Japanese,voice actors,cosplay,fanart,anime conventions,Mecha,shojo,shonen,One Piece,Naruto
+Christianity,Jesus,Bible,faith,worship,church,Sunday,salvation,cross,prayer,love
+Buddhism,Buddha,Nirvana,meditation,Karma,enlightenment,Zen,peace,Dharma,wisdom,discipline
+Greek mythology,Zeus ,Poseidon,Hades,Hera,Artemis,myths,Trojan War,Iliad,Odyssey,Achilles
+Judaism and the Jewish people,synagogues,Passover,kosher,Menorah,Israel,the Holocaust,Torah,Yiddish,Sabbath,Star of David
+music genres,classical,hip-hop,rock,pop,country,blues,jazz,dance,metal,electronic
+fictional characters,Harry Potter,Walter White,Luke Skywalker,Anakin Skywalker,Batman,Joker,Spiderman,Jon Snow,Gandalf,Sherlock Holmes
+rap and hip hop,rhyme,beats,flow,lyrics,wordplay,freestyle,mixtape,social commentary,urban,records
+Islam,Allah,Quran,mosque,Mecca ,Medina,Ramadan,sunnah,Jihad,Sharia,hijab
+The Walt Disney Company,Mickey Mouse,Disneyland,theme parks,animation,Pixar,magic,entertainment,fairy tales,iconic,merchandise
+agriculture,farming,crops,livestock,produce,rural,fertilizer,pesticide,irrigation,harvest,food
+hiking,outdoors,mountains,exploration,exercise,trails,nature,adventure,scenic,elevation,wildlife
+New York City,Empire State Building,Brooklyn Bridge,Manhattan,Brooklyn,Times Square,The Big Apple,food trucks,fashion,bustling,nightlife
+gardens,flowers,plants,greenery,foliage,vegetation,tranquil,landscaping,outdoor,botanical,nature
+personality traits,outgoing,shy,honest,loyal,confident,anxious,curious,patient,compassionate,generous
+camping,tent,nature,campfire,backpacking,hiking,wildlife,bonfire,sleeping bag,s'more,adventure
+gender,male,female,non-binary,stereotype,transgender,identity,expression,norms,spectrum,discrimination
+cemeteries and graves,tombstone,burial,gloomy,memorial,remembrance,grief,solemn,mourning,graveyard,shrine
+London,Big Ben,Buckingham Palace,Thames River,London Bridge,England,museums,Queen Elizabeth,red telephone booths,victorian,Westminster Abbey
+Los Angeles,Hollywood,Beverly Hills,UCLA,entertainment,film,sunny weather,palm trees,celebrities,diverse,nightlife
+Chicago,nightlife,jazz,Chicago hot dogs,deep dish pizza,UChicago,Chicago River,L train,Wrigley Field,Lake Michigan,Chiago Bulls
+Paris,France,Eiffel Tower,Louvre,Notre-Dame Cathedral,romance,wine,fine dining,Versailles,croissants,macarons
+Berlin,Berlin Wall,Cold War,Germany,street art,historical,Reichstag,World War II,Brandenburg Gate,scientific advancement,entrepreneurship
+sailing,water,boats,wind,waves,sails,nautical,helm,anchor,adventure,ocean
+swimming,water,Michael Phelps,freestyle,exercise,diving,strokes,lifeguard,summer,relaxation,olympics
+the Holocaust,Jews,Nazis,genocide,concentration camp,persecution,World War II,war crimes,Anne Frank,gas chambers,Auschwitz
+arachnids and arachnology,spiders,webs,venom,silk,invertebrate,eight legs,exoskeleton,molt,fangs,arachnophobia
+musical instruments,piano,guitar,violin,cello,harp,trumpet,drums,flute,clarinet,saxophone
+meteorology,weather,forecast,news report,precipitation,prediction,storms,pressure,wind,rain,temperature
+disease,deadly,sickness,treatment,medication,illness,symptoms,contagious,healthcare,diagnosis,patient
+Ireland,Dublin,green,whiskey,tap dancing,Leprechaun,Guiness,Cliffs of Moher,pubs,shamrock,St. Patrick's Day
+libraries,books ,borrowing,quiet,study,reading,reference,catalog,shelves,resources,education
+museums,Louvre,Metropolitan Museum of Art,Smithsonian,exhibits,artifacts,preservation,history,tour,art,exhibition
+journalism,reporting,writing,news  ,headlines,interview,media,press ,truth,editorial,scoop
+buildings,Empire State Building,Eiffel Tower,Notre-Dame Cathedral,architecture,construction,skyscraper,urban,tower,landmark,renovation
+cryptocurrencies,Bitcoin,Ethereum,Ripple,Solana,Dogecoin,Litecoin,Uniswap,Tron,Neo,Binance Coin
+events and news,television,The New York Times,reporting,headlines,media,current affairs,journalists,coverage,breaking news,TIME
+Louisiana,Cajun,New Orleans,seafood boil,crawfish,gumbo,south,Mardi Gras,Creole,blues,jazz
+revolutions,French Revolution,American Revolution,Industrial Revolution,change,uprising,revolt,struggle,freedom,liberation,overthrow
+mines and mining,excavation,drill,ore,gold,copper,labor,coal,shaft,quarry,dynamite
+Switzerland,Alps,neutral,Geneva,cheese,banks,Swiss Army Knife,Zurich,watches,CERN,fondue
+World War II,Nazis,death,Pearl Harbor,atomic bomb,the Holocaust,D-Day,Adolf Hitler,facism,unrest,tanks

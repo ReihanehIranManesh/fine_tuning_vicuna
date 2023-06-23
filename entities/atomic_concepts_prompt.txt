@@ -1,0 +1,2 @@
+I am going to give you an input. Return 1 if that input is related to <atomic_concept>. Return 0 otherwise.
+Input = <from_interpreter>
