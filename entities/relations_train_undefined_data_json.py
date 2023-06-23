@@ -9,7 +9,7 @@ TOTAL = NUM_ONE_EX * 140
 
 try:
     file = open(file_path, "r")
-    prompt = file.read()
+    MAIN_PROMPT = file.read()
     file.close()
 except FileNotFoundError:
     print("File not found.")
@@ -26,7 +26,7 @@ try:
                 first = False
                 continue
             # Process prompt
-            prompt = prompt.replace("<atomic_concept>", row[0].lstrip())
+            prompt = MAIN_PROMPT.replace("<atomic_concept>", row[0].lstrip())
 
             temp_ls = []
             for i in range(1, NUM_ONE_EX + 1):
@@ -43,7 +43,7 @@ file_path = "atomic_concepts_prompt.txt"
 
 try:
     file = open(file_path, "r")
-    prompt = file.read()
+    MAIN_PROMPT = file.read()
     file.close()
 except FileNotFoundError:
     print("File not found.")
@@ -62,7 +62,7 @@ try:
                 first = False
                 continue
             # Process prompt
-            prompt = prompt.replace("<atomic_concept>", row[0].lstrip())
+            prompt = MAIN_PROMPT.replace("<atomic_concept>", row[0].lstrip())
 
             for i in range(1, NUM_ONE_EX + 1):
                 entity_dict = {}
