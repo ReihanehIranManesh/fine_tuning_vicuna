@@ -94,6 +94,7 @@ try:
 
             numbers = list(numbers)
 
+            print(numbers)
             for i in range(1, NUM_ZERO_EX + 1):
                 entity_dict = {}
                 entity_dict["id"] = "identity_" + str(count)
