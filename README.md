@@ -1,5 +1,3 @@
-# fine_tuning_vicuna
+# Fine-tuning Vicuna
 
-Code for generating data + fine-tuning vicuna for evaluation of FIND
-
-Generated data is in generate_training_data_vicuna/relations/train_data
+Code for generating data + fine-tuning + evaluating Vicuna as an implementer for evaluation of FIND
