@@ -1,0 +1,345 @@
+{
+    "prompt": "I am going to give you an input. Return 1 if that input is related to sports events. Return 0 otherwise.\nInput = Tour de France\n",
+    "model": "0",
+    "human": 1
+}{
+    "prompt": "I am going to give you an input. Return 1 if that input is related to dance. Return 0 otherwise.\nInput = visual arts\n",
+    "model": "0",
+    "human": 1
+}{
+    "prompt": "I am going to give you an input. Return 1 if that input is related to psychology. Return 0 otherwise.\nInput = learning\n",
+    "model": "0",
+    "human": 1
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Canada",
+    "model": "3.19 km",
+    "human": "38.3 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = France",
+    "model": "6.19 km",
+    "human": "67.8 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Germany",
+    "model": "82.6 million",
+    "human": "83.2 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Japan",
+    "model": "166 cm",
+    "human": "125.7 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Peru",
+    "model": "6.77 km",
+    "human": "33.7 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Vietnam",
+    "model": "96.77 km",
+    "human": "97.5 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = United Kingdom",
+    "model": "63.19 km",
+    "human": "67.3 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Russia",
+    "model": "5.64 km",
+    "human": "143.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = United States",
+    "model": "3.73 km",
+    "human": "331.9 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined.'\nInput = Nigeria",
+    "model": "170 million",
+    "human": "213.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Canada",
+    "model": "Canadian Dollar",
+    "human": "Canadian dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = France",
+    "model": "French Franc",
+    "human": "euro"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Germany",
+    "model": "Euros",
+    "human": "eruo"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Japan",
+    "model": "Yen",
+    "human": "yen"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Peru",
+    "model": "Peruvians",
+    "human": "sol"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Vietnam",
+    "model": "Vietnamese Dong",
+    "human": "dong"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = United Kingdom",
+    "model": "Pound",
+    "human": "pound"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = India",
+    "model": "Indian Rupee",
+    "human": "rupee"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = United States",
+    "model": "Dollar",
+    "human": "United States dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined.'\nInput = Nigeria",
+    "model": "Nigerian Naira",
+    "human": "naira"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined.'\nInput = United States",
+    "model": "New York",
+    "human": "New York City"
+}{
+    "prompt": "I am going to give you an input. If the input is a well-known person, return only the country that person was born in. If the input is not a well-known person, return 'undefined.'\nInput = Ryan Gosling",
+    "model": "United States",
+    "human": "Canada"
+}{
+    "prompt": "I am going to give you an input. If the input is a well-known person, return only the country that person was born in. If the input is not a well-known person, return 'undefined.'\nInput = Marie Curie",
+    "model": "France",
+    "human": "Poland"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = The Power of the Dog",
+    "model": "John Woo",
+    "human": "Jane Campion"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = Frozen II",
+    "model": "Disney",
+    "human": "Jennifer Lee"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = Captain Marvel",
+    "model": "Carol Danvers",
+    "human": "Anna Boden"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = Ophelia",
+    "model": "Alice Walker",
+    "human": "Claire McCarthy"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = The Godfather",
+    "model": "Joseph Heller",
+    "human": "Francis Ford Coppola"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = The Shawshank Redemption",
+    "model": "Fyodor Dostoevsky",
+    "human": "Frank Darabont"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = Pulp Fiction",
+    "model": "Joseph Heller",
+    "human": "Quentin Tarantino"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined.'\nInput = Inception",
+    "model": "Joseph Heller",
+    "human": "Christopher Nolan"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = France",
+    "model": "6.19 km",
+    "human": "67.8 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Germany",
+    "model": "82.6 million",
+    "human": "83.2 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Japan",
+    "model": "166 cm",
+    "human": "125.7 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Peru",
+    "model": "6.77 km",
+    "human": "33.7 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Vietnam",
+    "model": "96.19 km",
+    "human": "97.5 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = United Kingdom",
+    "model": "63.19 km",
+    "human": "67.3 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Russia",
+    "model": "5.64 km",
+    "human": "143.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in North America, return 'undefined'.\nInput = Nigeria",
+    "model": "170 million",
+    "human": "213.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Canada",
+    "model": "3.19 km",
+    "human": "38.3 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = France",
+    "model": "6.19 km",
+    "human": "67.8 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Germany",
+    "model": "82.6 million",
+    "human": "83.2 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Peru",
+    "model": "6.77 km",
+    "human": "33.7 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = United Kingdom",
+    "model": "63.19 km",
+    "human": "67.3 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Russia",
+    "model": "5.64 km",
+    "human": "143.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = United States",
+    "model": "3.73 km",
+    "human": "331.9 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the population of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Nigeria",
+    "model": "170 million",
+    "human": "213.4 million"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Canada",
+    "model": "Canadian Dollar",
+    "human": "Canadian dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = France",
+    "model": "French Franc",
+    "human": "euro"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Germany",
+    "model": "Euros",
+    "human": "eruo"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Japan",
+    "model": "Japanese Yen",
+    "human": "yen"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Vietnam",
+    "model": "Vietnamese Dong",
+    "human": "dong"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = United Kingdom",
+    "model": "Pound",
+    "human": "pound"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = India",
+    "model": "Indian Rupee",
+    "human": "rupee"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = United States",
+    "model": "Dollar",
+    "human": "United States dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Nigeria",
+    "model": "Nigerian Naira",
+    "human": "naira"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = Canada",
+    "model": "Canadian Dollar",
+    "human": "Canadian dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = Japan",
+    "model": "Yen",
+    "human": "yen"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = Peru",
+    "model": "Peruvians",
+    "human": "sol"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = Vietnam",
+    "model": "Vietnamese Dong",
+    "human": "dong"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = United Kingdom",
+    "model": "pounds",
+    "human": "undefined"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = India",
+    "model": "Indian Rupee",
+    "human": "rupee"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = United States",
+    "model": "Dollar",
+    "human": "United States dollar"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the official currency of that country. If the input is not a country, return 'undefined'. If the input country is in Europe, return 'undefined'.\nInput = Nigeria",
+    "model": "Nigerian Naira",
+    "human": "naira"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = Vietnam",
+    "model": "Ho Chi Minh",
+    "human": "Ho Chi Minh City"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = India",
+    "model": "New Delhi",
+    "human": "Mumbai"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in South America, return 'undefined'.\nInput = United States",
+    "model": "New York",
+    "human": "New York City"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = India",
+    "model": "undefined",
+    "human": "Mumbai"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = United States",
+    "model": "New York",
+    "human": "New York City"
+}{
+    "prompt": "I am going to give you an input. If the input is a country, return only the most populated city of that country. If the input is not a country, return 'undefined'. If the input country is in Asia, return 'undefined'.\nInput = Nigeria",
+    "model": "Abuja",
+    "human": "Lagos"
+}{
+    "prompt": "I am going to give you an input. If the input is a well-known person, return only the country that person was born in. If the input is not a well-known person, return 'undefined'. If the input person is male, return 'undefined'.\nInput = Marie Curie",
+    "model": "France",
+    "human": "Poland"
+}{
+    "prompt": "I am going to give you an input. If the input is a well-known person, return only the country that person was born in. If the input is not a well-known person, return 'undefined'. If the input person is female, return 'undefined'.\nInput = Ryan Gosling",
+    "model": "United States",
+    "human": "Canada"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is male, return 'undefined'.\nInput = The Power of the Dog",
+    "model": "undefined",
+    "human": "Jane Campion"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is male, return 'undefined'.\nInput = Frozen II",
+    "model": "undefined",
+    "human": "Jennifer Lee"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is male, return 'undefined'.\nInput = Captain Marvel",
+    "model": "undefined",
+    "human": "Anna Boden"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is male, return 'undefined'.\nInput = Ophelia",
+    "model": "undefined",
+    "human": "Claire McCarthy"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is male, return 'undefined'.\nInput = American Psycho",
+    "model": "undefined",
+    "human": "Mary Harron"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = The Power of the Dog",
+    "model": "John Woo",
+    "human": "undefined"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = American Psycho",
+    "model": "Mary Harron",
+    "human": "undefined"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = The Godfather",
+    "model": "Joseph Heller",
+    "human": "Francis Ford Coppola"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = The Shawshank Redemption",
+    "model": "Fyodor Dostoevsky",
+    "human": "Frank Darabont"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = Pulp Fiction",
+    "model": "Joseph Heller",
+    "human": "Quentin Tarantino"
+}{
+    "prompt": "I am going to give you an input. If the input is the title of a film, return only the director of that film. If the input is not the title of a film, return 'undefined'. If the input film director is female, return 'undefined'.\nInput = Inception",
+    "model": "Joseph Heller",
+    "human": "Christopher Nolan"
+}
